@@ -4,7 +4,7 @@ permalink: /research/
 ---
 #### Job Market Paper
 
-1. **Credit Constraints and the Valuation of Local Public Amenities** - I demonstrate that credit constraints may bias price-based (cf. rent-based) hedonic valuations of local public amenities. To measure this bias, I design a simple framework applying the logic of hedonic regression to mortgage choice. I find that household WTP for \$1 of credit at the time of home purchase has mean $\sim$ \$0.25 and standard deviation $\sim$ \$0.50. Assuming zero correlation between households' marginal WTP for amenities and credit, this implies that existing estimates of local amenities are biased downward by 25\%. To better account for potential correlations in borrower heterogeneity, I propose to refine the analysis in the discrete choice setting.
+1. **Credit Constraints and the Valuation of Local Public Amenities** - I demonstrate that credit constraints may bias price-based (cf. rent-based) hedonic valuations of local public amenities. To measure this bias, I design a simple framework applying the logic of hedonic regression to mortgage choice. I find that household WTP for \\$1 of credit at the time of home purchase has mean $\sim$ \\$0.25 and standard deviation $\sim$ \\$0.50. Assuming zero correlation between households' marginal WTP for amenities and credit, this implies that existing estimates of local amenities are biased downward by 25\%. To better account for potential correlations in borrower heterogeneity, I propose to refine the analysis in the discrete choice setting.
 
 #### Working Papers
 
