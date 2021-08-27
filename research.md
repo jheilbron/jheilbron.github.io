@@ -7,3 +7,6 @@ permalink: /research/
 
 #### Working Papers
 
+
+#### Former Research
+
