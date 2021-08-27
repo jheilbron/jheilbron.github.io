@@ -10,4 +10,4 @@ Below are a handful of lecture notes and paper discussions that I found clarifyi
     3. The General Method of Moments: [heilbron_hansen_notes_3](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron_hansen_notes_3_gmm.pdf)
 
 
-- **Formalization & Discussion of "Algorithmic Discrimination and Input Accountability under the Civil Rights Acts" (Bartlett et al., 2020)**: I found the authors' project of interpreting the law in an econometric fashion to be compelling. I formalize this effort to both elaborate and complicate their work. 
+- **Formalization & Discussion of "Algorithmic Accountability" (Bartlett et al., 2019)**: I found the authors' project of interpreting the law in an econometric fashion to be compelling. I formalize this effort to both elaborate and complicate their work. [heilbron_bartlett_et_al_2019_discussion](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron_bartlett_et_al_2019_discussion.pdf)
