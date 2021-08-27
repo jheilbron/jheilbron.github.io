@@ -2,12 +2,8 @@
 layout: page
 ---
 
-Some information about you!
+I'm a rising 6th year student at Chicago Booth on the job market in the winter 2021-2022. My primary research interests are in household and public finance. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+#### Contact me
 
 [jheilbro@chicagobooth.edu](mailto:jheilbro@chicagobooth.edu)
