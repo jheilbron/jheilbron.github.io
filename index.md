@@ -4,7 +4,7 @@ layout: page
 
 
 <html lang="en" style="width:100%;">
-  <div style="float: left; margin-right 1em;">
+  <div style="float: left; margin-right 10%;">
     <img src="/images/JohnHeilbron-010.jpg" width=200 alt="">
   </div>
 </html>
