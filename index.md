@@ -5,7 +5,7 @@ layout: page
 
 <html lang="en" style="width:100%; height:1500px;">
   <div style="clear: both;" markdown='block'>
-    <div style="float: left; margin-right 100em;">
+    <div style="float: left; margin-right 100em;" markdown='0'>
       <img src="/images/JohnHeilbron-010.jpg" width=200 alt="">
     </div>
     <div markdown='1'>
