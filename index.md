@@ -4,10 +4,8 @@ layout: page
 
 
 <html lang="en" style="width:100%;">
-  <div style="clear: both; margin-right 100;">
-    <div style="float: left; margin-right 100;">
-      <img src="/images/JohnHeilbron-010.jpg" width=200 alt="">
-    </div>
+  <div style="float: left; margin-right 100;">
+    <img src="/images/JohnHeilbron-010.jpg" width=200 alt="">
   </div>
 </html>
 
