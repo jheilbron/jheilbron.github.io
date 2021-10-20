@@ -5,7 +5,7 @@ layout: page
 <html lang="en" style="width:100%; height:900px;">
   <div style="clear: both;">
     <div style="float: left; margin-right 1em;">
-      <img src="/images/JohnHeilbron-010.jpg" alt="">
+      <img src="/images/JohnHeilbron-010.jpg" width=250 alt="">
     </div>
     <div>
       <h2>Some title text</h2>
