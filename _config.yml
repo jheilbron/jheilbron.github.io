@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github:
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/jwheilbron/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -62,6 +62,8 @@ version: v1.2.0
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
