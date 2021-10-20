@@ -5,7 +5,7 @@ layout: page
 
 <div class='row'>
   <div class='col-md-5' markdown='1'>
-  <!-- ![Alt Text](/images/JohnHeilbron-010.jpg) -->
+  <-- [figure](/images/JohnHeilbron-010.jpg) -->
   <img width='250' class='center-block' src='/images/JohnHeilbron-010.jpg'>
   </div>
   <div class='col-md-7' markdown='1'>
