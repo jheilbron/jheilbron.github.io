@@ -5,7 +5,7 @@ layout: page
 
 <div class='row'>
   <div class='col-md-5' markdown='1'>
-  [figure](/images/JohnHeilbron-010.jpg){: style="float: left"}
+  [figure](https://github.com/jheilbron/jheilbron.github.io/images/JohnHeilbron-010.jpg){: style="float: left"}
   <!-- !<img width='250' src='/images/JohnHeilbron-010.jpg'> -->
   </div>
   <div class='col-md-7' markdown='1'>
