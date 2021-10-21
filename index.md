@@ -11,11 +11,11 @@ layout: page
   <!-- ![Alt Text](../img/folder/blah.jpg) -->
   <img class="center-block" src="/images/JohnHeilbron-010.jpg" width=200>
   </div>
-  <div class="col-md-8" markdown='1'>
+  <div class="col-md-8">
     <h2>About me</h2>
     <p>I'm a 6th year student at Chicago Booth on the job market in the winter 2021-2022. My primary research interests are in household and public finance. I am also interested in research on discrimination and historical methods.</p>
     <h4>Contact</h4>
-    <p><b>E-mail</b>: jheilbro@chicagobooth.edu</p>
+    <p><b>E-mail</b>: <a href="mailto:jheilbro@chicagobooth.edu">jheilbro@chicagobooth.edu</a></p>
   </div>
   </div>
 </html>
