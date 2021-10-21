@@ -4,8 +4,14 @@ layout: page
 
 
 <html lang="en" style="width:100%;">
-  <div style="float: left; margin-right 10%;">
-    <img src="/images/JohnHeilbron-010.jpg" width=200 alt="">
+  <div class="row">
+  <div class="col-md-8" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="/images/JohnHeilbron-010.jpg" width=200>
+  </div>
+  <div class="col-md-4" markdown="1">
+  Some text.
+  </div>
   </div>
 </html>
 
