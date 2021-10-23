@@ -16,6 +16,7 @@ layout: page
     <p>I'm a 6th year student at Chicago Booth on the job market in the winter 2021-2022. My primary research interests are in household and public finance. I am also interested in research on discrimination and historical methods.</p>
     <h4>Contact</h4>
     <p><b>E-mail</b>: <a href="mailto:jheilbro@chicagobooth.edu">jheilbro@chicagobooth.edu</a></p>
+    <p><b>LinkedIn</b>: <a href='https://www.linkedin.com/in/jwheilbron/'>www.linkedin.com/in/jwheilbron</a></p>
   </div>
   </div>
 </html>
