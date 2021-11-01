@@ -18,7 +18,7 @@ permalink: /research/
   
    I instrument retirement with programmatic Social Security eligibility thresholds and find that retirement makes a household $\sim$12pp more likely to issue any new mortgage debt and $\sim$3pp more likely to extract equity from a home within the following two years. The transaction costs associated with refinancing and the predictability of retirement suggest that households may save excessive funds in housing wealth relative to a rational benchmark.
 
-3. "Decision-Making by Precedent and the Founding of American Honda (1949-1972)" With Ramon Casadesus-Masanell. 2016.  
+3. "Decision-Making by Precedent and the Founding of American Honda (1949-1972)." With Ramon Casadesus-Masanell. 2016.  
 
    We review archival documents and conduct a novel oral history to document that Kihachiro Kawashima, President of American Honda from 1959 to 1965, made decisions according to precedent set by his boss and mentor, chief strategist of Honda, Takeo Fujisawa. We argue that decision-making by precedent represents neither 'deliberate' nor 'emergent' strategy because it is characterized by intentions of upper-management that are neither present nor absent but fictive. We propose and define an alternative: 'subjunctive' strategy. 
 
