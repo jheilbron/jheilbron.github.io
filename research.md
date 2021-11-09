@@ -4,9 +4,9 @@ permalink: /research/
 ---
 #### Job Market Paper
 
-1. "Credit Constraints and the Valuation of Local Public Amenities." 2021.  
+1. "Credit Constraints and Bias in Hedonic Amenity Valuations." 2021.  
 
-   I demonstrate that credit constraints may bias price-based (cf. rent-based) hedonic valuations of local public amenities, distorting welfare analysis and potentially causing under-investment in amenities. To measure this bias, I apply the hedonic framework to a problem of mortgage choice in the presence of credit constraints. I use Fannie Mae pricing grids and private mortgage insurance requirements to construct borrower-level mortgage choice menus and estimate the extent of bias among fixed-rate agency loan borrowers. I find evidence of considerable bias, $\sim$50pp.
+   I demonstrate that credit constraints bias price-based (cf. rent-based) hedonic valuations of local public amenities. Mis-measurement of the private value of local public amenities distorts welfare analysis and could cause under-investment in amenities. I introduce a method to measure this bias by applying the hedonic framework to a problem of mortgage choice in the presence of credit constraints. I use Fannie Mae pricing grids and private mortgage-insurance requirements to construct borrower-level mortgage choice menus and estimate the extent of bias among fixed-rate agency loan borrowers. I find evidence that traditional hedonic techniques understate the value of amenities by $\sim$50pp.
 
 #### Working Papers
 
