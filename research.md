@@ -14,7 +14,7 @@ permalink: /research/
 
    I adapt the bunching framework to measure the loan-to-value elasticity of housing demand. Unlike existing literature, my estimator can identify the effect of credit supply while remaining agnostic about how households form beliefs over future housing returns. I measure a statistically significant elasticity of demand, suggesting that households are credit constrained at the time of home purchase. The elasticity is economically small, $\sim$14-25bp, suggesting that shocks to credit supply drove housing demand largely through the channel of household beliefs. 
 
-2. "Housing Wealth Management at Retirement." 2019.  
+2. "[Housing Wealth Management at Retirement.](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron_retirement.pdf)" 2019.  
   
    I instrument retirement with programmatic Social Security eligibility thresholds and find that retirement makes a household $\sim$12pp more likely to issue any new mortgage debt and $\sim$3pp more likely to extract equity from a home within the following two years. The transaction costs associated with refinancing and the predictability of retirement suggest that households may save excessive funds in housing wealth relative to a rational benchmark.
 
