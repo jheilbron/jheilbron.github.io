@@ -10,17 +10,17 @@ permalink: /research/
 
 #### Working Papers
 
-1. "[CCP Resource Management]" Draft available on request. With Nicholas Schwartz. 2025.
+1. "CCP Resource Management." Draft available on request. With Nicholas Schwartz. 2025.
 
    Central Counterparties (CCPs) share a common function of managing counterparty credit risk. If a market participant, $m$, defaults on a cleared contract prior to settlement, the CCP fulfills $m$'s obligations, and so shields $m$'s original counterparty from default losses. Despite this common function, CCPs are highly idiosyncratic institutions. They vary in size; they vary in the footprint of their activities across securities, funding, and derivatives markets; they vary in their degree of loss mutualization and the liquidity of their resources; and they vary in the composition of their prefunded and liquid resources. This paper describes these cross-sectional differences for those global CCPs that publish CPMI-IOSCO Public Quantitative Disclosures (PQDs). It presents a simple analytical framework for understanding CCP demands for liquid and prefunded resources. The framework integrates various dimensions of CCP heterogeneity and suggests predictable cross-sectional differences.
 
-3. "[The Impact of CCP Liquidity and Capital Demands on Clearing Members Under Stress](https://www.financialresearch.gov/working-papers/2025/07/01/the-impact-of-ccp-liquidity-demands-on-clearing-members-under-stress/)" With Stathis Tompaidis. 2024.
+3. "[The Impact of CCP Liquidity and Capital Demands on Clearing Members Under Stress.](https://www.financialresearch.gov/working-papers/2025/07/01/the-impact-of-ccp-liquidity-demands-on-clearing-members-under-stress/)" With Stathis Tompaidis. 2024.
 
    We examine the impact of liquidity and capital demands by central counterparties (CCPs) on clearing members (CMs) under stress conditions. Our methodology provides insights into potential systemic vulnerabilities and resilience in centrally cleared markets and can be used to monitor the potential impact of CCPs on their clearing members. We consider 11 major CCPs and 6 CMs that are large U.S. financial institutions. We apply various stress scenarios to both CCPs and CMs and find that, while large clearing members have sufficient resources to meet CCP demands during periods of heightened risk, the size of these demands is material and has fluctuated over time. 
 
 #### Publications
 
-1. "[Who Bears Climate-Related Physical Risk?]" Accepted at JUE Insights. 2025.
+1. "Who Bears Climate-Related Physical Risk?" Accepted at JUE Insights. 2025.
 
    This paper combines data on residential property-level physical risk from major climate-related perils (severe convective storm, inland flood, hurricane storm surge, hurricane wind, winter storm, and wildfire) with data on local economic characteristics to establish three facts about the severity of and five facts about the demographic distribution of this class of risk in the contiguous United States. On the severity of climate-related physical risk, we find (i) severe convective storms are the leading contributor to expected damage, (ii) inland flood and hurricane-related perils drive aggregate tail risk, and (iii) the difference in risk level between the safest and the riskiest places is expected to grow by 2050. On the demographic distribution of risk, we find (i) the safest areas have the most expensive homes, (ii) levels of economic well-being are lower in risky areas, (iii) there is little relationship between local racial composition and risk level, (iv) rural areas face the highest risks, and (v) there is no evidence of lower aggregate development activity or in-migration in risky areas. These facts are an important foundation for climate risk-mitigation policymaking and academic research on how the U.S. population view and respond to this class of risk.
 
@@ -30,7 +30,7 @@ permalink: /research/
 
 #### Previous Research
 
-1. "[The Uneven Distribution of Climate Risks and Discounts](https://www.financialresearch.gov/briefs/2024/02/28/climate-risks-discounts/)" 2024.
+1. "[The Uneven Distribution of Climate Risks and Discounts.](https://www.financialresearch.gov/briefs/2024/02/28/climate-risks-discounts/)" 2024.
    
    In this brief, we document the uneven distribution of climate risk in real estate using novel data on expected losses due to climate risk at the property-level. We show that properties located in counties that are poorer, less educated, older, more rural, and that have less belief in climate change tend to have more climate risk. Next, using home sales, we document heterogeneity between counties in the size of discount per unit of climate risk. We find a smaller discount per unit of climate risk in a similar set of more exposed counties.
 
