@@ -15,7 +15,7 @@ layout: page
     <h3>About me</h3>
     <p>I'm a research economist on the job market in the Fall and Winter 2025. I received my PhD in Finance from the University of Chicago Booth School of Business in June 2022 and worked for the U.S. Treasury in the Office of Financial Research from 2022-2025. I have some research interests in household finance and others in central clearing and financial stability.</p>
     <h4>References</h4>
-    <p>Amir Sufi, Elisabeth Kempf, Scott Nelson, Mark Paddrik, Peyton Young</p>
+    <p>Amir Sufi, Elisabeth Kempf, Scott Nelson, Mark Paddrik, Stathis Tompaidis, Peyton Young</p>
     <h4>Contact</h4>
     <p><b>E-mail</b>: <a href="mailto:jheilbro@alumni.chicagobooth.edu">jheilbro@alumni.chicagobooth.edu</a></p>
     <p><b>LinkedIn</b>: <a href='https://www.linkedin.com/in/jwheilbron/'>www.linkedin.com/in/jwheilbron</a></p>
