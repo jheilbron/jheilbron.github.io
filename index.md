@@ -17,7 +17,7 @@ layout: page
     <h4>References</h4>
     <p>Amir Sufi, Elisabeth Kempf, Scott Nelson, Mark Paddrik, Peyton Young</p>
     <h4>Contact</h4>
-    <p><b>E-mail</b>: <a href="mailto:jheilbro@alumni.chicagobooth.edu">jheilbro@chicagobooth.edu</a></p>
+    <p><b>E-mail</b>: <a href="mailto:jheilbro@alumni.chicagobooth.edu">jheilbro@alumni.chicagobooth.edu</a></p>
     <p><b>LinkedIn</b>: <a href='https://www.linkedin.com/in/jwheilbron/'>www.linkedin.com/in/jwheilbron</a></p>
   </div>
   </div>
