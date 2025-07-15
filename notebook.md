@@ -5,8 +5,8 @@ permalink: /notebook/
 
 Below are a handful of miscellaneous notes that I found clarifying to write: 
 - **Bibliography on Central Counterparties (CCPs)**: The literature on financial market infrastructures (FMIs) and central counterparties (CCPs) is narrow, insular, somewhat interdisciplinary, and in many cases unpublished. For this reason, citations of interest are fairly dispersed. To help lower barriers to entry on this topic, I have compiled a (non-exhaustive) bibliography. Where available, I've included abstracts.
-    - [CCP Bibliography .pdf](heilbron_ccp-bibliography-250714.pdf)
-    - [CCP Bibliography .bib](heilbron_ccp-bibliography-250714.bib)
+    - [CCP Bibliography .pdf](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron_ccp-bibliography-250714.pdf)
+    - [CCP Bibliography .bib](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron_ccp-bibliography-250714.bib)
  
 - **Research Note on Housing Hedonics, Financial Frictions, and Discrete Choice Econometrics**: I elaborate a standard discrete choice framework to identify parameters describing both preferences and constraints. Estimation can be accomplished in a 2SLS regression with appropriately chosen instruments. I attempt to apply the framework to the simultaneous problem of neighborhood and mortgage choice. The results contradict downward sloping individual demand curves, and so I conclude I have not yet found satisfactory instruments.
 [Discrete Choice Research Note](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron_research-note_housing-frictions-discrete-choice.pdf)
