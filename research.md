@@ -30,7 +30,7 @@ permalink: /research/
 
 #### Previous Research
 
-1. "[The Uneven Distribution of Climate Risks and Discounts.](https://www.financialresearch.gov/briefs/2024/02/28/climate-risks-discounts/)" 2024.
+1. "[The Uneven Distribution of Climate Risks and Discounts.](https://www.financialresearch.gov/briefs/2024/02/28/climate-risks-discounts/)" With Kevin Zhao. 2024.
    
    In this brief, we document the uneven distribution of climate risk in real estate using novel data on expected losses due to climate risk at the property-level. We show that properties located in counties that are poorer, less educated, older, more rural, and that have less belief in climate change tend to have more climate risk. Next, using home sales, we document heterogeneity between counties in the size of discount per unit of climate risk. We find a smaller discount per unit of climate risk in a similar set of more exposed counties.
 
