@@ -20,7 +20,7 @@ permalink: /research/
 
 #### Publications
 
-1. "Who Bears Climate-Related Physical Risk?" With David Wylie, Natee Amornsiripanitch, and Kevin Zhao. Accepted at JUE Insights. 2025.
+1. "[Who Bears Climate-Related Physical Risk?](https://authors.elsevier.com/a/1lc8xLPdB3K1t)" With David Wylie, Natee Amornsiripanitch, and Kevin Zhao. JUE Insights. 2025.
 
    This paper combines data on residential property-level physical risk from major climate-related perils (severe convective storm, inland flood, hurricane storm surge, hurricane wind, winter storm, and wildfire) with data on local economic characteristics to establish three facts about the severity of and five facts about the demographic distribution of this class of risk in the contiguous United States. On the severity of climate-related physical risk, we find (i) severe convective storms are the leading contributor to expected damage, (ii) inland flood and hurricane-related perils drive aggregate tail risk, and (iii) the difference in risk level between the safest and the riskiest places is expected to grow by 2050. On the demographic distribution of risk, we find (i) the safest areas have the most expensive homes, (ii) levels of economic well-being are lower in risky areas, (iii) there is little relationship between local racial composition and risk level, (iv) rural areas face the highest risks, and (v) there is no evidence of lower aggregate development activity or in-migration in risky areas. These facts are an important foundation for climate risk-mitigation policymaking and academic research on how the U.S. population view and respond to this class of risk.
 
