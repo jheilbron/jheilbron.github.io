@@ -10,7 +10,7 @@ permalink: /research/
 
 #### Working Papers
 
-1. "[CCP Resource Management.](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron-schwartz_ccp-resource-management.pdf)" With Nicholas Schwartz. 2025.
+1. "[Central Counterparty Management of Liquid and Prefunded Resources.](https://github.com/jheilbron/jheilbron.github.io/raw/master/downloads/heilbron-schwartz_ccp-resource-management.pdf)" With Nicholas Schwartz. 2025.
 
    This paper presents a simple analytical framework for understanding aggregate central counterparty (CCP) resource demands. The framework integrates various dimensions of CCP heterogeneity, including size, final settlement mechanism, contract turnover rate, underlying price volatility, market liquidity, market concentration, and certain CCP risk-management parameters, such as the extent of resource mutualization. Where available, we present empirical counterparts to these parameters using data from the CPMI-IOSCO Public Quantitative Disclosures (PQDs). Our framework extends previous literature by explicitly considering liquid as well as capital resources and we conclude with two reflections on CCP liquidity management. First, CCPs with a high turnover of physically settled contracts, such as securities or repo, may use liquid resources to help share funding risks associated with default between members. This helps explain the greater degree of resource mutualization at such CCPs and may even provide a motive for common ownership. Second, without sufficient liquid resources to weather large price dislocations, CCPs may be unable to commit to putting members into default in such circumstances. This may limit market discipline for appropriate ex-ante liquidity management by clearing members.
 
